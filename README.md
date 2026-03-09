@@ -3,11 +3,11 @@
 ## 1. Descripción
 Se plantean cinco preguntas de negocio centradas en el perfil del cliente con la finalidad de analizar cómo las características demográficas influyen en el comportamiento de compra, lo que permite identificar segmentos claves y oportunidades de optiminzación en las estrategias de marketing.
 
-**1.**¿Qué nivel educativo presenta mayor valor económico para la empresa?
-**2.**¿Qué combinación de nivel educativo y estado civil genera mayor valor para la empresa?
-**3.**¿Qué perfiles de clientes muestran mayor estabilidad en su comportamiento de compra?
-**4.**¿Qué perfiles de clientes presentan mayor diversificación de consumo?
-**5.**¿Qué perfiles de clientes presentan mayor riesgo de abandono?
+**1.**- ¿Qué nivel educativo presenta mayor valor económico para la empresa?
+**2.**- ¿Qué combinación de nivel educativo y estado civil genera mayor valor para la empresa?
+**3.**- ¿Qué perfiles de clientes muestran mayor estabilidad en su comportamiento de compra?
+**4.**- ¿Qué perfiles de clientes presentan mayor diversificación de consumo?
+**5.**- ¿Qué perfiles de clientes presentan mayor riesgo de abandono?
 
 ---
 ## 2. Dataset
