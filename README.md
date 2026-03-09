@@ -29,7 +29,7 @@ Estas variables permiten analizar cómo las características del cliente influye
 ## 3. Herramientas Utilizadas
 - Power BI- DAX (Data Analysis Expressions)
 
-** Vista del Dashboard**
+**Vista del Dashboard**
 ![Dashboard Power BI](images/dashboard.png)
 
 ---
@@ -39,35 +39,23 @@ El dashboard utiliza filtros interactivos y medidas dinámicas que permiten expl
 El dashboard presenta diferentes métricas y visualizaciones que permiten comprender el comportamiento de compra de los clientes:
 
 Métricas principales
-
-Ticket promedio
-
-Gasto promedio por cliente
-
-Variabilidad del gasto por cliente
-
-Porcentaje de clientes en riesgo
+- Ticket promedio
+- Gasto promedio por cliente
+- Variabilidad del gasto por cliente
+- Porcentaje de clientes en riesgo
 
 Análisis realizados
 
 Comparación del gasto promedio según nivel educativo
-
 Análisis de variabilidad del gasto por perfil educativo
-
 Distribución del gasto por categoría de producto
-
 Promedio de categorías activas por estado civil y nivel educativo
-
 Identificación de clientes con mayor riesgo de churn
-
 Además, el dashboard incluye filtros interactivos para analizar los resultados según:
 
 Estado civil
-
 Categoría de edad
-
 Categoría de ingresos
-
 Número de hijos
 
 ---
