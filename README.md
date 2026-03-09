@@ -29,13 +29,13 @@ Estas variables permiten analizar cómo las características del cliente influye
 ## 3. Herramientas Utilizadas
 - Power BI- DAX (Data Analysis Expressions)
 
-📷 Vista del Dashboard
-El dashboard utiliza filtros interactivos y medidas dinámicas que permiten explorar los datos desde diferentes perspectivas.
+** Vista del Dashboard**
 ![Dashboard Power BI](images/dashboard.png)
 
 ---
 ## 4. Análisis
 
+El dashboard utiliza filtros interactivos y medidas dinámicas que permiten explorar los datos desde diferentes perspectivas.
 El dashboard presenta diferentes métricas y visualizaciones que permiten comprender el comportamiento de compra de los clientes:
 
 Métricas principales
